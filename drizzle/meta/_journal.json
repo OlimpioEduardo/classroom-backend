@@ -8,6 +8,13 @@
       "when": 1772976980129,
       "tag": "0000_absurd_alex_wilder",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1773743269091,
+      "tag": "0001_daffy_moonstone",
+      "breakpoints": true
     }
   ]
 }
